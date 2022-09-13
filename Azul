@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style>
+        p{text-align: justify;}
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="Futebol">
+    <title>Copa do Mundo 2022</title>
+</head>
+<body>
+
+    <img src="COPA DO MUNDO PNG.png" height="300" width="1330"/>
+
+    <fom method="get" action="Enviar_Dados"></fom>
+    <input type="e-mail" name="E-Mail" placeholder="Digite seu Email aqui">
+    <input type="tel" name="Telefone" placeholder="Digite seu telefone aqui">
+    <input type="submit" name="enviar" value="Enviar">
+    </form>
+
+        
+        <h1>Copa do Mundo</h1>
+
+        <div style="display:block ; width:70%;float:left ;">
+        <p> A Copa do Mundo, a maior competição de futebol que existe atualmente, é organizada pela Fifa a cada quatro anos e tem o Brasil como o grande campeão, com cinco títulos.</p>
+        <p> A Copa do Mundo é uma competição internacional organizada pela Federação Internacional de Futebol a cada quatro anos. A Copa passou a ser realizada em 1930, com a primeira competição sediada pelo Uruguai. A escolha da nação-sede é determinada em eleições feitas pela própria Fifa. </p>
+        <p>A Copa do Mundo é um dos maiores eventos esportivos do planeta e, a cada quadriênio, bilhões de pessoas assistem aos jogos realizados. As edições de 2010 (que ocorreu na África do Sul) e 2014 (no Brasil) contaram com cerca de 3,2 bilhões de espectadores, segundo dados compartilhados pela Fifa. A final da Copa do Mundo de 2014 registrou, sozinha, aproximadamente 1 bilhão de espectadores.</p>
+        </div>
+    
+        <img src="MASCOTE PNG.png" alt="MASCOTE DA COPA DO MUNDO">
+        <img src="Neymar PNG.png" alt="SELEÇÂO BRASILEIRA">
+
+        <div> <a href="Untitled-1.html">Estadios da Copa </a></div>
+        <div> <a href="Untitled-2.html">Polêmicas na Copa</a> </div>
+        <div> <a href="Untitled-3.html">Tabela da Copa </a></div>
+        <div> <a href="Untitled-4.html">Curiosidades da Copa </a></div>
+    
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kDxbLdMmcCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jiUibimOvI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        
+       
+    
+
+        <footer>
+         <p>Lucas Pavão  &COPY;</p>   
+        </footer>
+    </body>
+</html>      
